@@ -1,0 +1,30 @@
+body {
+   
+    display: flex;
+    justify-content: center;
+
+}
+
+.main-container{
+    text-align: center;
+    background-color: pink;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    width: 100px;
+}
+
+#btn {
+    background-color: red;
+    border: 2px solid black;
+    font-weight: bold;
+    border-radius: 20px;
+    width: 180px;
+    height: 30px;
+
+}
